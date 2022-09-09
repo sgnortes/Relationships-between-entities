@@ -1,5 +1,5 @@
 # Relationships-between-entities
-In this project I will show examples of the following relationships between entities: 
+In this project I show examples of how to map the following relationships between entities: 
 
 - One to one
 - One to many 
